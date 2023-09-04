@@ -1,0 +1,9 @@
+192.168.56.1 - - [22/Jun/2023:19:47:45 -0400] "GET /GetPassengeridsJSP/GetPassengerids.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 200 6
+192.168.56.1 - - [22/Jun/2023:19:49:53 -0400] "GET /GetPassengeridsJSP/GetPassengerids.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 200 6
+192.168.56.1 - - [22/Jun/2023:19:53:52 -0400] "GET /TransferPointsJSP/TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 200 30
+192.168.56.1 - - [22/Jun/2023:19:55:37 -0400] "GET /TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 404 749
+192.168.56.1 - - [22/Jun/2023:19:56:12 -0400] "GET /TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 404 749
+192.168.56.1 - - [22/Jun/2023:19:56:16 -0400] "GET /TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 404 749
+192.168.56.1 - - [22/Jun/2023:19:57:04 -0400] "GET /FrequentFlier/TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 404 767
+192.168.56.1 - - [22/Jun/2023:19:59:27 -0400] "GET /FrequentFlier/TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 404 767
+192.168.56.1 - - [22/Jun/2023:19:59:40 -0400] "GET /frequentflier/TransferPoints.jsp?spid=1&dpid=2&points=1 HTTP/1.1" 200 30
